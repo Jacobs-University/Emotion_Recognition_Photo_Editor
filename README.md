@@ -3,6 +3,7 @@
 This project runs on Python 3.8
 
 How to run?
+- Clone this repository
 - Install requirements from requirements.txt
 - Run the command "python main.py" while in the directory. Do ensure that 'python' refers to Python3 on your system.
 - The prompt will tell you to speak in the caption. It uses a Speech-to-text API to achieve this, so it is reliant on an
